@@ -1,1 +1,0 @@
-# 2-wren-kim-js-miniquest
